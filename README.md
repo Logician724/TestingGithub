@@ -4,7 +4,7 @@
 Generic tests for component wide communication on github
 
 ## Authors
-- [Reda Ramadan](https://github.com/Logician724),**_Reda Ramadan_**
+- [Reda Ramadan](https://github.com/Logician724),**_37-14485_**
 
 ## About
 > [Reda Ramadan](https://github.com/Logician724), This tutorial is for simulating a github working environment to train on making projects, milestones, issues, and merge conflicts. 
