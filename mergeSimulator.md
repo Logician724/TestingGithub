@@ -6,6 +6,11 @@ Maher's line to Add a random TXT to overwrite an existing one, BLA BlA BLA
 Maher's line to Add a random TXT to overwrite an existing one, BLA BlA BLA
 Maher's line to Add a random TXT to overwrite an existing one, BLA BlA BLA
 
+
+This is H
+Let's simulate the merging conflict
+right now
+
 This is something random to be overwritten for merge conflict puposes.
 placeholder text here.
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy\
