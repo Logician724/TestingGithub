@@ -1,5 +1,9 @@
 ## This is for mergin conflict simulation
 ### input random content here.
+
+This is H
+Let's simulate the merging conflict
+right now
 This is something random to be overwritten for merge conflict puposes.
 placeholder text here.
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy\
