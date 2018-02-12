@@ -1,6 +1,8 @@
 ## This is for mergin conflict simulation
 ### input random content here.
 
+Haidy Ashraf Muhammed Kamel Hamed Youssef.
+
 
 Maher's line to Add a random TXT to overwrite an existing one, BLA BlA BLA
 Maher's line to Add a random TXT to overwrite an existing one, BLA BlA BLA
@@ -18,3 +20,4 @@ text ever since the 1500s, when an unknown printer took a galley of type and scr
 survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was
 popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop
 publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
