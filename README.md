@@ -9,6 +9,7 @@ Generic tests for component wide communication on github
 - [Ahmed Hisham Rihan](https://github.com/ahmed1hisham) **_37_3032_**
 - [Mohamed Maher](https://github.com/MoeMaher),**_37-8153_**
 - [Zeyad Ezzat](https://github.com/zeyadezzat),**_37-11600_**
+- [Olfat Mostafa](https://github.com/OlfatMostafa),**_37-19029_**
 ## About
 > [Reda Ramadan](https://github.com/Logician724), This tutorial is for simulating a github working environment to train on making projects, milestones, issues, and merge conflicts. 
 
@@ -20,3 +21,5 @@ Generic tests for component wide communication on github
   This is a repo for describing the team
   
 > [Zeyad Ezzat](https://github.com/zeyadezzat) , TEST FOR GITHUB
+
+> [Olfat Mostafa](https://github.com/OlfatMostafa) , simulation
